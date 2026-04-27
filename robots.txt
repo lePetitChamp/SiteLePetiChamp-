@@ -1,0 +1,6 @@
+# Robots.txt — Le Petit Champ' Festival
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://lepetitchampfestival.github.io/sitemap.xml
